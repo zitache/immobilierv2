@@ -1,0 +1,61 @@
+
+a:link {
+  text-decoration: underline; 
+  color: blue; 
+}
+
+a:hover {
+  text-decoration: underline; 
+  color: green; 
+}
+h1 {
+    color: goldenrod;
+    background-color: white;
+    text-align: center;
+}
+button {
+    background-color:burlywood; 
+  }
+  
+  button:hover {
+    background-color: green; 
+  }   
+
+
+a {
+    text-decoration: none;
+    color:black;
+  }
+
+  button {
+    background-color: lightpink; 
+  }
+  
+  button:hover {
+    background-color: lightskyblue; 
+  } 
+  body{
+    background-color: rosybrown;
+  }  
+   ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+  }
+ li{
+  display: flex;
+  justify-content: space-between;
+  margin: 0 10px;
+  
+ }
+
+footer{
+  text-align: center;
+}
+  select option {
+    background-color: #fff;
+    color: #333;
+  }
+ 
+  
